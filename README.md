@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Alex Houghtons's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ah1062&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ah1062)
+[![Alex Houghtons's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ah1062&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,shaderlab,hlsl&theme=algolia&show_icons=true)](https://github.com/ah1062)
 <!--
 **ah1062/ah1062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
